@@ -1,1 +1,2 @@
-print"buraya kadarmis :) "
+bitti = "9 mart"
+print(bitti)
